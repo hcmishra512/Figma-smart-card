@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Sansation_Light";
+  src: url(https://bhatiagro.com/smart_card/asseste/font/Sansation/Sansation_Light.ttf);
+}
+@font-face {
+  font-family: "Robotot";
+  src: url(https://bhatiagro.com/smart_card/asseste/font/Roboto/Roboto-Regular.ttf);
+}
+@font-face {
+  font-family: "Rubik";
+  src: url(https://bhatiagro.com/smart_card/asseste/font/Rubik/Rubik-Medium.ttf);
+}
+
+body {
+  width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
+  background: #d8d2d2;
+}
